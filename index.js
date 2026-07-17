@@ -1,4 +1,4 @@
-console.log("hello from JS");
+console.log("Welcome to Git Playlist");
 for (let i=0;i<10;i++){
-    console.log("code")
+    console.log(i)
 }
